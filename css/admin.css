@@ -1,0 +1,8 @@
+.wrapper  {width:  calc(100% - 20px); margin: 100px auto;}
+.list-group-item {margin-bottom: 10px;}
+.pull-right { float:right}
+.fixed-box {   
+    position: -webkit-sticky;
+    position: sticky;
+    top: 100px;  
+}
